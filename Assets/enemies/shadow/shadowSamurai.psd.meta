@@ -1,0 +1,2450 @@
+fileFormatVersion: 2
+guid: 6e26b21e1ee334c488a31edb343490ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadowSamurai_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f60fd162afd844aa8d3c972635bff
+      internalID: 1977725847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1255.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bba8fee68759f4cafea33a0ba6871c
+      internalID: -1549643909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1255.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeea3fbde6558c4c82c7f968e1c206a
+      internalID: -1288155039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1255.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f7533e73f43b6488bd55518b1d7562
+      internalID: 758526199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1255.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068da4d2d7eaecf48ba6db4753a6f0a2
+      internalID: 65645688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1255.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d6a6670de31447a3fb638b2ed3dee
+      internalID: 2076665343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1189.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99657202e73d5c43b008afc139c0f4a
+      internalID: 1479758343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1189.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50198196ece4c04ab6668ce98ceb22d
+      internalID: -2040793764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1189.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a513269b2bb33c47b19efb171b77882
+      internalID: -1247437480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1189.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345d5197f49791d43a3b724706e5165f
+      internalID: 485155535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1189.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d15f2d33ab6049a27a140a5d5589b
+      internalID: -396956107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1189.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41ee886c7441f438f01c4531f5c36c
+      internalID: -472477799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1123.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ae3f59beb5154196ebbf7ea65c70b
+      internalID: -1830017882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1123.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be13171755d0a2946bfd8e1ddefca19c
+      internalID: 550616217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1123.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b53cd40e70bed48ab615a89a096305
+      internalID: 1504532147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1123.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e64dd92f7e63b4f9f449061b57bf8e
+      internalID: -465807021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1123.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2069ce73daa2704ebf81a3ece4c478c
+      internalID: 1295278869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1123.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d9c6084a592a40934769fa8a4a340
+      internalID: 966126450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1057.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56144d0f94df1243a6f060e0584b0f0
+      internalID: -882475970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1057.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502352bc69307184a8be0f37c7545904
+      internalID: -773836783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1057.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb566a8e826a14086e3b24e22471f5
+      internalID: -1576086338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1057.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac216cd5abbf4e40929d4bc8d20e476
+      internalID: 907153984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1057.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad972bdcfd8664e9ad920f492ff333
+      internalID: -1945815977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1057.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e116d92258fc0499ccf5704b13b9b2
+      internalID: -389283640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825ba05751db4d749ad2692ee5305c68
+      internalID: -2029832114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 991.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4148d32f5b7c41b590082b47dd239
+      internalID: 492416275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 991.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cb864f749319a4fb318139d528134a
+      internalID: -301549681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 991.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94770604e9fa1fc4a9d01011671e352b
+      internalID: 528081095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 991.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d6a53f75684ef449922d427e783cf5
+      internalID: -370848404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 991.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f281925099fe7441b711bb9adbb7bf7
+      internalID: -746919647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162a7bda9f9ab1648a6dfea201fe5b8d
+      internalID: -875225300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 925.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fba3e451b21a43a86da69fc6d6017
+      internalID: 1687976402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 925.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c656771a8aaa34698bd9e5aecb386d
+      internalID: 1525754996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 925.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7310313359c2cd44821f7f529a3e19e
+      internalID: 1479685318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 925.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4a6797c334f2469ff4463da92e7db
+      internalID: -1940942632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 925.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a86e4ccb577a04d89cd7da5c4d2662
+      internalID: -1004802810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c10a8e2500a854ba58fba8c373296f
+      internalID: -1107217982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 859.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f855357d584e3154ca80e441b82bc2fa
+      internalID: -1035956175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 859.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7959d097ca4d645a9e13d58bd31f4a
+      internalID: 387381188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 859.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c34cb3d5e2f745b2c9920f4f9cab6
+      internalID: -1885025344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 859.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70628f96a9b68cb44a59bda4d76ab9e7
+      internalID: -279789912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 859.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21769a8081b8854fb18ac478726ef0b
+      internalID: -844791648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a1256d60c42546adb939742592bda
+      internalID: -2010877440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 793.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525546cb202397c4a99346ea4dc5ef20
+      internalID: -1359902675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 793.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e1ebe7d1be084586761eb64018fcb
+      internalID: 185997679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 793.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c74e2d089781e644abb0a26fc4fd2d8
+      internalID: -2121241117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 793.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba38fec5111914194a6597fa6ba600
+      internalID: 936506635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 793.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd5af6c23c4e34fadb378b3d0e6dda
+      internalID: 2120567365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 727.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75935254f0f7fe44bdf56397101ab24
+      internalID: 700942120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 727.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e726a1a239204e8500acde34eefea
+      internalID: -1971435326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 727.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530812ed6c0301a4d9db2888e375d004
+      internalID: -772600928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 727.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b562623d1a25cfd4e9efa03a9ecd53d8
+      internalID: 1006603057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 727.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c285c41bffdd834e951d35cc097db48
+      internalID: 325836825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 727.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f3b73329ddf747b5e057a31b6bd2b
+      internalID: 1653028140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 661.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f19e8be78c2c2d46816e89221f5809f
+      internalID: -1234825423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 661.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d7c68fffc87c444a7e4a0d919d6653
+      internalID: 886884223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 661.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea3fb8d6f9cc748a74d0853cdb0416
+      internalID: -1102089800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_57
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 661.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5716bf3e2642417448a70fb076bd34a4
+      internalID: 131141296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 661.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfaa5544b31dc04a9e09af4e86981eb
+      internalID: -258250466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_59
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 661.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f73e0220ab4d749a4e8b40478cadf8
+      internalID: -1840071461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bcd01a316272b4cb0866a571abc2f6
+      internalID: 1331247724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 595.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa851a3cefb64d46830bd90f898638b
+      internalID: 330465271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 595.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c84452bb57c11046949779ffd51c331
+      internalID: 516819584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 595.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c39c88658b1c4a8edcf0b3c938591
+      internalID: 1806924427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 595.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4002a5ffab5894584f9bdba505f391
+      internalID: -1677218584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 595.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c0ccb10c129d4d9dd401c5a71b6d0
+      internalID: -565904279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69e2ae3706b704dab1951448484cdf
+      internalID: 629533312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 529.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf71220d986781e4e837c40bd870377c
+      internalID: 969038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 529.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d02b583647259942beaf29acafe02e5
+      internalID: -1015055619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_69
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 529.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618c8f5f14648be408a1dfbc5542b6fd
+      internalID: 153377890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_70
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 529.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe1dc7dcae2d08428a699ce6b51d1c7
+      internalID: -722013367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 529.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1270220e815f58348b971f8194386728
+      internalID: 1064967996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87e72b36070bd4db94a8227cc1a363
+      internalID: 728014918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 463.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8e813a9f535547838acf1ca45b5d9
+      internalID: 269553852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_74
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 463.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4302d7a40d8f1ec419f66473667cd00a
+      internalID: -2119475689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_75
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 463.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b18bb4c4034ed49bd68960a2de32a3
+      internalID: 99716028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_76
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 463.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6f6c3afe970e84ca44c16b0964e022
+      internalID: -1148203308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3146f5b420fa499934cca2e7252ba
+      internalID: 993873713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_78
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 397.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8dded91524504f98e6f745486c490
+      internalID: 74394624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 397.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04f48278a2c4544871673a401ae99f
+      internalID: -815691996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_80
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 397.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c97e9a6976024daa316d66ab6acd8
+      internalID: 1742279066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f27e14874c7d4ab172a86cd72448e
+      internalID: -2048092620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_82
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 331.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059264946c10f94490ae95d6e2c632a
+      internalID: -19173543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_83
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 331.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b1407643ead34aae323421016911b
+      internalID: 1234024834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 331.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8ba408c1633f744a22496fe31c44d1
+      internalID: -1227542561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30f412e85a45054fba8dab6c0e75c77
+      internalID: 723973702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_86
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 265.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae7993ceab74cb489fb2f12525ba08e
+      internalID: 1694558714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 265.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc724388ecde24dae4467f7afcca3e
+      internalID: -84829257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 265.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1653df121a135e4980f4d68ad5519cf
+      internalID: -1326439698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0987782e28d82d74c959c1eba05eeddb
+      internalID: -1551816524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 199.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd72ef7fd3e1e74598cea2208c262c7
+      internalID: -1025504178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 199.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3337c71c99b5014a83d115f90c08138
+      internalID: -721204379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 199.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d149a81387caf48b7c3762d0f5dbcc
+      internalID: -1873074012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d3fe608a4708943bb795a7fea20969
+      internalID: 779478914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_94
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 133.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9448ce589e8e9b498e30a40d5a3d24b
+      internalID: 322158098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_95
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 133.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4402dc8911a47041875596152162669
+      internalID: -1357888522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c905a4da5c72e945bc5baf986c70c26
+      internalID: 678696054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b300eeeb927c3cd4ca209b0b37c96a86
+      internalID: -440184263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_98
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ebc47de14ee7842989f79815e0ed35
+      internalID: -1615024016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0c32e17f105284dbbbce5b93308a70
+      internalID: 514849748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67.9
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfea04e558449946886df860af8350e
+      internalID: 1123649039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.9000015
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf07b55eefe30c49998d3c8922fb70d
+      internalID: -1731553564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_102
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1.9000015
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2696f26f58bc45a15e11791cda856
+      internalID: 1660241664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_103
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1.9000015
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346a5758b8057f45b0960acbcd17fe8
+      internalID: -792975459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowSamurai_104
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1.9000015
+        width: 66.333336
+        height: 66.1
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c607beb46abf55d4f99b52cd690157d5
+      internalID: -1014188737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 62e06938d41396040bb0d58488ea9445
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shadowSamurai_0: 1977725847
+      shadowSamurai_1: -1549643909
+      shadowSamurai_10: -396956107
+      shadowSamurai_100: 1123649039
+      shadowSamurai_101: -1731553564
+      shadowSamurai_102: 1660241664
+      shadowSamurai_103: -792975459
+      shadowSamurai_104: -1014188737
+      shadowSamurai_11: -472477799
+      shadowSamurai_12: -1830017882
+      shadowSamurai_13: 550616217
+      shadowSamurai_14: 1504532147
+      shadowSamurai_15: -465807021
+      shadowSamurai_16: 1295278869
+      shadowSamurai_17: 966126450
+      shadowSamurai_18: -882475970
+      shadowSamurai_19: -773836783
+      shadowSamurai_2: -1288155039
+      shadowSamurai_20: -1576086338
+      shadowSamurai_21: 907153984
+      shadowSamurai_22: -1945815977
+      shadowSamurai_23: -389283640
+      shadowSamurai_24: -2029832114
+      shadowSamurai_25: 492416275
+      shadowSamurai_26: -301549681
+      shadowSamurai_27: 528081095
+      shadowSamurai_28: -370848404
+      shadowSamurai_29: -746919647
+      shadowSamurai_3: 758526199
+      shadowSamurai_30: -875225300
+      shadowSamurai_31: 1687976402
+      shadowSamurai_32: 1525754996
+      shadowSamurai_33: 1479685318
+      shadowSamurai_34: -1940942632
+      shadowSamurai_35: -1004802810
+      shadowSamurai_36: -1107217982
+      shadowSamurai_37: -1035956175
+      shadowSamurai_38: 387381188
+      shadowSamurai_39: -1885025344
+      shadowSamurai_4: 65645688
+      shadowSamurai_40: -279789912
+      shadowSamurai_41: -844791648
+      shadowSamurai_42: -2010877440
+      shadowSamurai_43: -1359902675
+      shadowSamurai_44: 185997679
+      shadowSamurai_45: -2121241117
+      shadowSamurai_46: 936506635
+      shadowSamurai_47: 2120567365
+      shadowSamurai_48: 700942120
+      shadowSamurai_49: -1971435326
+      shadowSamurai_5: 2076665343
+      shadowSamurai_50: -772600928
+      shadowSamurai_51: 1006603057
+      shadowSamurai_52: 325836825
+      shadowSamurai_53: 1653028140
+      shadowSamurai_54: -1234825423
+      shadowSamurai_55: 886884223
+      shadowSamurai_56: -1102089800
+      shadowSamurai_57: 131141296
+      shadowSamurai_58: -258250466
+      shadowSamurai_59: -1840071461
+      shadowSamurai_6: 1479758343
+      shadowSamurai_60: 1331247724
+      shadowSamurai_61: 330465271
+      shadowSamurai_62: 516819584
+      shadowSamurai_63: 1806924427
+      shadowSamurai_64: -1677218584
+      shadowSamurai_65: -565904279
+      shadowSamurai_66: 629533312
+      shadowSamurai_67: 969038
+      shadowSamurai_68: -1015055619
+      shadowSamurai_69: 153377890
+      shadowSamurai_7: -2040793764
+      shadowSamurai_70: -722013367
+      shadowSamurai_71: 1064967996
+      shadowSamurai_72: 728014918
+      shadowSamurai_73: 269553852
+      shadowSamurai_74: -2119475689
+      shadowSamurai_75: 99716028
+      shadowSamurai_76: -1148203308
+      shadowSamurai_77: 993873713
+      shadowSamurai_78: 74394624
+      shadowSamurai_79: -815691996
+      shadowSamurai_8: -1247437480
+      shadowSamurai_80: 1742279066
+      shadowSamurai_81: -2048092620
+      shadowSamurai_82: -19173543
+      shadowSamurai_83: 1234024834
+      shadowSamurai_84: -1227542561
+      shadowSamurai_85: 723973702
+      shadowSamurai_86: 1694558714
+      shadowSamurai_87: -84829257
+      shadowSamurai_88: -1326439698
+      shadowSamurai_89: -1551816524
+      shadowSamurai_9: 485155535
+      shadowSamurai_90: -1025504178
+      shadowSamurai_91: -721204379
+      shadowSamurai_92: -1873074012
+      shadowSamurai_93: 779478914
+      shadowSamurai_94: 322158098
+      shadowSamurai_95: -1357888522
+      shadowSamurai_96: 678696054
+      shadowSamurai_97: -440184263
+      shadowSamurai_98: -1615024016
+      shadowSamurai_99: 514849748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
